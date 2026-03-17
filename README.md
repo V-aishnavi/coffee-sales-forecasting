@@ -83,6 +83,3 @@ Future models could include additional features such as:
 
 ---
 
-## Author
-
-Data Science Internship Project

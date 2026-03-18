@@ -1,4 +1,4 @@
-# coffee-sales-forecasting
+# Coffee-Sales-Forecasting
 
 # Coffee Sales Forecasting Using Machine Learning
 
@@ -55,6 +55,19 @@ Random Forest achieved the best performance for this dataset.
 ---
 
 ## Visualizations
+### Revenue Trend
+![Revenue Trend](images/revenue_trend.png)
+
+### Product Analysis
+![Product Analysis](images/product_analysis.png)
+
+### Model Comparison
+![Model Comparison](images/model_comparison.png)
+
+### Dashboard
+![Dashboard](images/dashboard.png)
+
+---
 
 ### Revenue Trend
 ---

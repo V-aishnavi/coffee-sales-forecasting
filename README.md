@@ -68,15 +68,15 @@ The following models were implemented and evaluated:
 ## 📈 Visualizations
 
 ### 📅 Revenue Trend
-![Revenue_Trend] revenue_trend.png
+![Revenue_Trend] (Images/revenue_trend.png)
 ### ☕ Product Analysis
-![Product_Analysis] product_analysis.png
+![Product_Analysis] ( Images/product_analysis.png)
 
 ### 📊 Model Comparison
-![Model_Comparison] model_comparison.png
+![Model_Comparison] (Images/model_comparison.png)
 
 ### 📊 Dashboard
-![Dashboard] dashboard.png
+![Dashboard] (Images/dashboard.png)
 
 ---
 
